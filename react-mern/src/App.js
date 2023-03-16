@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
    <h1>Hello, I am learning MERN Full Stack Development.</h1>
-   <FunctionalComp title="Nisha"></FunctionalComp>
+   <FunctionalComp title="Garima"></FunctionalComp>
    <ClassComp></ClassComp>
    <Click></Click>
    </div>
