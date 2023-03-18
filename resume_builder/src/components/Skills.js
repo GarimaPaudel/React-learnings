@@ -1,8 +1,8 @@
 function Skills({skills}){
     return(
-        <div>
+        <div className="p-5">
             <p>Skills</p>
-<ul>
+<ul className="list-disc list-inside">
     <li>{skills[0]}</li>
     <li>{skills[1]}</li>
     <li>{skills[2]}</li>
